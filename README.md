@@ -219,8 +219,7 @@ taskInput.addEventListener('keypress', (e) => {
 
 ```
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3b19289-f5d0-4128-80c9-2d5c4c743e3e" />
-
+<img width="1234" height="606" alt="image" src="https://github.com/user-attachments/assets/134493bf-aebc-4b18-9ebe-57e00d778ea1" />
 
 
 ## RESULT
